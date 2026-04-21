@@ -18,7 +18,7 @@ El sistema facilita el control del acompañamiento académico mediante una API R
 
 ---
 
-## 🧱 Arquitectura
+## Arquitectura
 
 El proyecto está desarrollado utilizando una **arquitectura por capas**:
 
@@ -29,7 +29,7 @@ El proyecto está desarrollado utilizando una **arquitectura por capas**:
 
 ---
 
-## 🧠 Programación Orientada a Objetos (POO)
+## Programación Orientada a Objetos (POO)
 
 Se aplicaron los siguientes conceptos:
 
@@ -41,7 +41,7 @@ Se aplicaron los siguientes conceptos:
 
 ---
 
-## ⚙️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - .NET 8
 - ASP.NET Core Web API
@@ -51,15 +51,9 @@ Se aplicaron los siguientes conceptos:
 
 ---
 
-## 🗄️ Base de datos
+## Base de datos
 
 La base de datos se genera automáticamente mediante **migraciones de Entity Framework**.
 
 ---
 
-## 🚀 Cómo ejecutar el proyecto
-
-### 1. Clonar el repositorio
-
-```bash
-git clone https://github.com/tu-usuario/tu-repo.git
